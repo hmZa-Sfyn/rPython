@@ -1,7 +1,7 @@
 <p align="center">
   <h1>rPython</h1>
   <p><i>Python</i> Reimagined in <i>Rust</i></p>
-  <img src="https://img.shields.io/badge/rPython-Python_Reimagined_in_Rust-yellow?style=for-the-badge" alt="Welcome Badge">
+  <img src="https://img.shields.io/badge/rPython-Python_Reimagined_in_Rust-red?style=for-the-badge" alt="Welcome Badge">
 </p>
 
 ### `Hello` from `rPython`:
